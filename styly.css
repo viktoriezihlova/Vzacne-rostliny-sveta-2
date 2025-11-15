@@ -1,0 +1,22 @@
+body {
+  background-color: #f3f8f3;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+
+h1 {
+  color: darkgreen;
+  text-align: left;
+
+}
+h2 {
+  color: darkgreen;
+  text-align: left;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a {
+  color: darkolivegreen;
